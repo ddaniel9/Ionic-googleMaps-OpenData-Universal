@@ -1,0 +1,41 @@
+{
+"result" : [
+
+                 {
+          			      "name": "Lecce",
+                      "url": "http://dati.comune.lecce.it/dataset/",
+                      "url_bikestation": "/3/action/datastore_search?resource_id=3bb304f9-9de3-4bac-943e-7acce7e8e8f9",
+                      "url_municipalparking":"6f85e6f1-388e-4103-b899-de226340ccd3/resource/6b08de68-63c9-4113-a728-1de7adc3d083/download/pianosostadellacittadilecce",
+                      "url_trail_bike":"/3/action/datastore_search?resource_id=e2e27764-2a41-4dbc-99d0-17f6c71068e4",
+                      "url_bus_stop":"/3/action/datastore_search?resource_id=8c4515b7-2d23-474e-beba-873f2eff8f92&limit=1043",
+                      "pageTime":"http://www.emtmalaga.es/emt-mobile/informacionParada.html?codParada=228"
+                   },
+                   {
+            			      "name": "Málaga",
+                        "url": "http://datosabiertos.malaga.eu/api",
+                        "url_bikestation": "/3/action/datastore_search?resource_id=3bb304f9-9de3-4bac-943e-7acce7e8e8f9",
+                        "url_municipalparking":"/3/action/datastore_search?resource_id=0dcf7abd-26b4-42c8-af19-4992f1ee60c6",
+                        "url_trail_bike":"/3/action/datastore_search?resource_id=e2e27764-2a41-4dbc-99d0-17f6c71068e4",
+                        "url_bus_stop":"/3/action/datastore_search?resource_id=8c4515b7-2d23-474e-beba-873f2eff8f92&limit=1043",
+                        "pageTime":"http://www.emtmalaga.es/emt-mobile/informacionParada.html?codParada=228"
+                     },
+
+                  {
+           			      "name": "Lecce",
+                      "url": "http://dati.comune.lecce.it/dataset/",
+                      "url_bikestation": "/3/action/datastore_search?resource_id=3bb304f9-9de3-4bac-943e-7acce7e8e8f9",
+                      "url_municipalparking":"6f85e6f1-388e-4103-b899-de226340ccd3/resource/6b08de68-63c9-4113-a728-1de7adc3d083/download/pianosostadellacittadilecce.geojson",
+                      "url_trail_bike":"/3/action/datastore_search?resource_id=e2e27764-2a41-4dbc-99d0-17f6c71068e4"
+
+                  },
+                  {
+                      "name": "Trento",
+                      "url": "https://os.smartcommunitylab.it/",
+                      "url_bikestation": "core.mobility/bikesharing/trento",
+                      "url_municipalparking":"6f85e6f1-388e-4103-b899-de226340ccd3/resource/6b08de68-63c9-4113-a728-1de7adc3d083/download/pianosostadellacittadilecce.geojson",
+                      "url_trail_bike":"/3/action/datastore_search?resource_id=e2e27764-2a41-4dbc-99d0-17f6c71068e4"
+
+                  }
+
+           ]
+}

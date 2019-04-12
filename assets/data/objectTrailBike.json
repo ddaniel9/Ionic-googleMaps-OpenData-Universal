@@ -1,0 +1,19 @@
+{
+"result" : [
+
+                 {
+                      "name": "Málaga",
+          			      "_id": "_id",
+                      "array_track": "wkb_geometry",
+                      "nameT": "name"
+                   },
+
+                   {
+                        "name": "Madrid",
+                        "_id": "_id",
+                        "array_track": "wkb_geometry",
+                        "nameT": "name"
+                     }
+
+           ]
+}

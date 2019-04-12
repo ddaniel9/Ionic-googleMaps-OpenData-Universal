@@ -1,0 +1,21 @@
+{
+"result" : [
+
+                 {
+                      "name": "Málaga",
+          			      "_id": "stop_id",
+                      "stop_name": "stop_name",
+                      "lat": "stop_lat",
+                      "lon": "stop_lon"
+                   },
+
+                   {
+                        "name": "Madrid",
+                        "_id": "stop_id",
+                        "stop_name": "stop_name",
+                        "lat": "stop_lat",
+                        "lon": "stop_lon"
+                     }
+
+           ]
+}

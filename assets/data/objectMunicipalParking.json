@@ -1,0 +1,35 @@
+{
+"result" : [
+
+                 {
+                      "name": "Málaga",
+          			      "_id": "_id",
+                      "nameMp": "nombre",
+                      "address": "direccion",
+                      "lat": "latitude",
+                      "lon": "longitude",
+                      "altitude": "altitude",
+                      "capacity": "capacidad",
+                      "disable_capacity": "capacidad_discapacitados",
+                      "date_last_update": "fechahora_ultima_actualizacion",
+                      "nfree": "libres",
+                      "nfree_disable": "libres_discapacitados"
+                   },
+
+                   {
+                        "name": "Lecce",
+                        "_id": "_id",
+                        "nameMp": "nombre",
+                        "address": "direccion",
+                        "lat": "latitude",
+                        "lon": "longitude",
+                        "altitude": "altitude",
+                        "capacity": "capacidad",
+                        "disable_capacity": "capacidad_discapacitados",
+                        "date_last_update": "fechahora_ultima_actualizacion",
+                        "nfree": "libres",
+                        "nfree_disable": "libres_discapacitados"
+                     }
+
+           ]
+}

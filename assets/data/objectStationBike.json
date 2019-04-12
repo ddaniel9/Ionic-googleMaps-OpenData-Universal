@@ -1,0 +1,47 @@
+{
+"result" : [
+
+                 {
+                      "name": "Málaga",
+          			      "_id": "_id",
+                      "id_state": "ID_ESTADO",
+                      "nderby": "NUM_DERBIS",
+                      "nfree": "NUM_LIBRES",
+                      "noccupied": "NUM_OCUPADOS",
+                      "lat": "LAT",
+                      "lon": "LON",
+                      "nameStation": "NOMBRE",
+                      "nameState": "NOMBRE_ESTADO",
+                      "address": "DIRECCION"
+
+                   },
+
+                   {
+                        "name": "Madrid",
+                        "_id": "_id",
+                        "id_state": "ID_ESTADO",
+                        "nderby": "NUM_DERBIS",
+                        "nfree": "NUM_LIBRES",
+                        "noccupied": "NUM_OCUPADOS",
+                        "lat": "LAT",
+                        "lon": "LON",
+                        "nameStation": "NOMBRE",
+                        "nameState": "NOMBRE_ESTADO",
+                        "address": "DIRECCION"
+                     },
+                     {
+                          "name": "Trento",
+                          "_id": "_id",
+                          "id_state": "ID_ESTADO",
+                          "nderby": "totalSlots",
+                          "nfree": "bikes",
+                          "noccupied": "slots",
+                          "lat": "position[0]",
+                          "lon": "position[1]",
+                          "nameStation": "name",
+                          "nameState": "NOMBRE_ESTADO",
+                          "address": "address"
+                       }
+
+           ]
+}

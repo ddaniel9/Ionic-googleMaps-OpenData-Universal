@@ -1,0 +1,67 @@
+<!--
+  Generated template for the SettingPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Setting</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <p>Radius Circle</p>
+<ion-range style ="margin:0px; padding: 0px" pin = "true" min="50" max="3000" step="1" [(ngModel)]="radius" (ionChange)="setRadius(radius)">
+<ion-icon range-left small name="sunny"></ion-icon>
+<ion-icon range-right name="sunny"></ion-icon>
+</ion-range>
+<ion-list>
+  <ion-item>
+
+    Legend:
+
+  </ion-item>
+  <ion-item>
+
+    <ion-thumbnail item-start>
+       <img  src='assets/icon/bike.png'>
+
+     </ion-thumbnail>
+     <h2>Bike Station</h2>
+
+
+  </ion-item>
+  <ion-item>
+
+    <ion-thumbnail item-start>
+       <img  src='assets/icon/parking.png'>
+
+     </ion-thumbnail>
+     <h2>Municiapl Parking</h2>
+
+  </ion-item>
+  <ion-item>
+
+    <ion-thumbnail item-start>
+       <img  src='assets/icon/bustop.png'>
+
+     </ion-thumbnail>
+     <h2>Bus Stop</h2>
+
+  </ion-item>
+  <ion-item>
+
+    <ion-thumbnail item-start>
+       <img  src='assets/icon/lineagialla.png'>
+
+     </ion-thumbnail>
+     <h2>Percorso Ciclabile</h2>
+
+
+  </ion-item>
+</ion-list>
+</ion-content>
